@@ -1,0 +1,10 @@
+// ────────────── Startup Applications ──────────────
+// https://github.com/YaLTeR/niri/wiki/Configuration:-Miscellaneous#spawn-sh-at-startup
+
+    spawn-sh-at-startup "qs -c noctalia-shell"
+    spawn-sh-at-startup "noctalia-shell ipc call hotcorners set_enabled false"
+    // Monitora e guarda textos copiados
+    spawn-sh-at-startup "wl-paste --type text --watch cliphist store"
+
+    // Monitora e guarda imagens copiadas
+    spawn-sh-at-startup "wl-paste --type image --watch cliphist store"
