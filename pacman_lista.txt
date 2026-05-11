@@ -67,6 +67,7 @@ fuzzel
 git
 github-cli
 glances
+gnome-text-editor
 gst-libav
 gst-plugin-pipewire
 gst-plugin-va
