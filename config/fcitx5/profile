@@ -1,18 +1,12 @@
 [Groups/0]
 # Group Name
-Name="Group 1"
+Name="Group 2"
 # Layout
-Default Layout=us-intl
+Default Layout=br
 # Default Input Method
 DefaultIM=keyboard-br
 
 [Groups/0/Items/0]
-# Name
-Name=keyboard-us-intl
-# Layout
-Layout=
-
-[Groups/0/Items/1]
 # Name
 Name=keyboard-br
 # Layout
@@ -20,13 +14,19 @@ Layout=
 
 [Groups/1]
 # Group Name
-Name="Group 2"
+Name="Group 1"
 # Layout
-Default Layout=br
+Default Layout=us
 # Default Input Method
 DefaultIM=keyboard-br
 
 [Groups/1/Items/0]
+# Name
+Name=keyboard-us
+# Layout
+Layout=
+
+[Groups/1/Items/1]
 # Name
 Name=keyboard-br
 # Layout

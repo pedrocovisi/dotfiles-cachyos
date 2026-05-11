@@ -1,9 +1,6 @@
-# Excluir pastas do Git
-.git/**
-.gitignore
-.gitattributes
-
-# Excluir arquivos temporários e lixo
-.DS_Store
-Thumbs.db
-*.tmp
+- .git/**
+- .gitignore
+- .gitattributes
+- .DS_Store
+- Thumbs.db
+- *.tmp
