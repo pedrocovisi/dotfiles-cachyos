@@ -19,7 +19,9 @@
         "overviewLayer": true,
         "pinnedApps": [
             "vivaldi-stable",
-            "obsidian"
+            "obsidian",
+            "antigravity",
+            "code"
         ],
         "position": "center",
         "screenshotAnnotationTool": "",
@@ -337,7 +339,7 @@
     },
     "dock": {
         "animationSpeed": 1,
-        "backgroundOpacity": 1,
+        "backgroundOpacity": 0.65,
         "colorizeIcons": false,
         "deadOpacity": 1,
         "displayMode": "auto_hide",
@@ -347,14 +349,14 @@
         "groupApps": true,
         "groupClickAction": "list",
         "groupContextMenuMode": "extended",
-        "groupIndicatorStyle": "dots",
-        "inactiveIndicators": false,
+        "groupIndicatorStyle": "number",
+        "inactiveIndicators": true,
         "indicatorColor": "secondary",
-        "indicatorOpacity": 1,
+        "indicatorOpacity": 0.87,
         "indicatorThickness": 3,
         "launcherIcon": "",
         "launcherIconColor": "none",
-        "launcherPosition": "end",
+        "launcherPosition": "start",
         "launcherUseDistroLogo": false,
         "monitors": [
         ],
@@ -458,7 +460,7 @@
         "resumeScreenOffCommand": "",
         "resumeSuspendCommand": "",
         "screenOffCommand": "",
-        "screenOffTimeout": 600,
+        "screenOffTimeout": 180,
         "suspendCommand": "",
         "suspendTimeout": 1800
     },
@@ -468,7 +470,7 @@
         "firstDayOfWeek": -1,
         "hideWeatherCityName": false,
         "hideWeatherTimezone": false,
-        "name": "",
+        "name": "São Carlos",
         "showCalendarEvents": true,
         "showCalendarWeather": true,
         "showWeekNumberInCalendar": false,
