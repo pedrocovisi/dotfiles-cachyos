@@ -31,6 +31,7 @@ cachyos-plymouth-bootanimation
 cachyos-plymouth-theme
 cachyos-rate-mirrors
 cachyos-settings
+cachyos-snapper-support
 cachyos-v3-mirrorlist
 cachyos-v4-mirrorlist
 cachyos-wallpapers
@@ -87,6 +88,9 @@ lib32-vulkan-radeon
 libdvdcss
 libgsf
 libopenraw
+limine
+limine-mkinitcpio-hook
+limine-snapper-sync
 linux-cachyos
 linux-cachyos-headers
 linux-cachyos-lts
@@ -101,7 +105,6 @@ man-db
 man-pages
 mdadm
 meld
-mesa
 mesa-utils
 micro
 mkinitcpio
@@ -130,6 +133,7 @@ perl
 pipewire-alsa
 pipewire-pulse
 pkgfile
+playerctl
 plocate
 plymouth
 poppler-glib
@@ -148,9 +152,9 @@ sddm
 sg3_utils
 shelly
 smartmontools
-snap-pac
 snapper
 sof-firmware
+stow
 sudo
 sysfsutils
 systemd-boot-manager
@@ -177,7 +181,6 @@ which
 wireplumber
 wpa_supplicant
 xdg-user-dirs
-xdg-utils
 xf86-video-amdgpu
 xfsprogs
 xl2tpd
