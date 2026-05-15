@@ -19,7 +19,9 @@
         "overviewLayer": true,
         "pinnedApps": [
             "vivaldi-stable",
-            "obsidian"
+            "obsidian",
+            "antigravity",
+            "code"
         ],
         "position": "center",
         "screenshotAnnotationTool": "",
@@ -347,14 +349,14 @@
         "groupApps": true,
         "groupClickAction": "list",
         "groupContextMenuMode": "extended",
-        "groupIndicatorStyle": "dots",
-        "inactiveIndicators": false,
+        "groupIndicatorStyle": "number",
+        "inactiveIndicators": true,
         "indicatorColor": "secondary",
         "indicatorOpacity": 1,
         "indicatorThickness": 3,
         "launcherIcon": "",
         "launcherIconColor": "none",
-        "launcherPosition": "end",
+        "launcherPosition": "start",
         "launcherUseDistroLogo": false,
         "monitors": [
         ],
